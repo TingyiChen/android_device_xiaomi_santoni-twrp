@@ -1,0 +1,2 @@
+add_lunch_combo omni_santoni-userdebug
+add_lunch_combo omni_santoni-eng
