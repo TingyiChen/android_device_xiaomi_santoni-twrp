@@ -26,7 +26,7 @@
 #
 
 on fs
-    # needed to make qseecomd work in recovery
+    # Needed to make qseecomd work in recovery
     chmod 0777 /dev/qseecom
     chmod 0664 /dev/ion
     chown system system /dev/ion

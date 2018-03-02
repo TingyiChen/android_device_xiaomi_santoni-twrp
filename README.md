@@ -1,17 +1,22 @@
+TeamWin Recovery Project
 
-This repository contains device configuration for Xiaomi Redmi 4X (santoni)
+Device configuration for Xiaomi Redmi 4[IN]/4X  (_santoni_)
+=====================================================
 
 Basic   | Spec Sheet
--------:|:----------
-CPU     | Octa-core 1.0/1.4 GHz ARM® Cortex™ A53
-Chipset | Qualcomm Snapdragon 435, MSM8940
+-------:|:-------------------------
+CPU     | Octa-core 1.4 GHz Cortex-A53
+CHIPSET | Qualcomm MSM8937 Snapdragon 435
 GPU     | Adreno 505
-ROM     | 16/32/64GB 
-RAM     | 2/3/4GB
-Android | 6.0.1
-Battery | 4100 mAh
-Display | 720x1280 pixels, 5.0 (~320 ppi pixel density)
-Rear Camera  | 13MP, 4128x3096 pixels, PDAF
-Front Camera | 5 MP, 2560x1920 pixels
+Memory  | 2 GB/3 GB/4 GB
+Shipped Android Version | Android 6.0.1 with MIUI 8
+Storage | 16 GB/32 GB
+MicroSD | Up to 256 GB (Hybrid)
+Battery | 41000 mAh (non-removable)
+Dimensions | 139.2 x 70 x 8.7 mm
+Display | 720 x 1280 pixels, 5.0" IPS
+Rear Camera  | 13.0 MP, LED flash
+Front Camera | 5.0 MP
+Release Date | May 2017
 
-![Xiaomi Redmi 4X](http://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-4x-2.jpg "Xiaomi Redmi 4X")
+![Xiaomi Redmi 4[IN]/4X](https://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-4x-2.jpg "Xiaomi Redmi 4[IN]/4X")
