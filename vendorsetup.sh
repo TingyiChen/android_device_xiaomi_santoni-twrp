@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_santoni-userdebug
-add_lunch_combo omni_santoni-eng
+add_lunch_combo omni_P809T70-userdebug
+add_lunch_combo omni_P809T70-eng
