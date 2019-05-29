@@ -18,4 +18,3 @@
 /vendor         ext4      /dev/block/bootdevice/by-name/cust                 flags=slotselect;display="Vendor";backup=1
 
 /system_image	emmc	  /dev/block/bootdevice/by-name/system
-/vendor_image	emmc      /dev/block/bootdevice/by-name/cust                 flags=backup=1
